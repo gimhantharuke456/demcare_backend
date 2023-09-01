@@ -1,0 +1,5 @@
+speech_recognition
+pydub
+httpx
+fastapi
+uvicorn
